@@ -1,5 +1,0 @@
-abstract class ApiKeys{
-
-  static const String testPublicKey = "pk_test_51PYE0VDUY4RvpdnE6GMIVlCQz3VEqpRVQ9UhtvdARoCgcfJFQarYGDrojfCbjgdnGSnYw5SG6qhBV9ukBfAINnOB00TZcBxrkj";
-  static const String testSecretKey = "sk_test_51PYE0VDUY4RvpdnEyECh6eifMXBGojeKkrznUFgEWUnJZbJBWEw8DhUOHGbmpspy2yJcFpFTePlA1swRQk2JckZH0041asy07H";
-}
